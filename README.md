@@ -1,5 +1,13 @@
 ## I love to do Programming✨ | game development💘 | editing 💀
 ### Hi there, I'm Abir Hassan 👦, currently study on Computer Science and Engineering .
+<br>
+
+- 🌱 I’m currently learning ... everything 😉😜
+- 💬 Ask me about ... nothing
+- 📫 How to reach me: ... emails and social media
+- 💀 Fun fact: ... nothing
+
+### Language and Tools 💻🔨
 
 <div>
   <details>
@@ -11,7 +19,7 @@
 <div>
   <details>
     <summary>🏆 Github Trophies </summary>
-    <img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true&theme=dracula">
+    <img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true&theme=onedark">
   </details>
 </div>
 
