@@ -11,11 +11,11 @@
 
 <div>
   <details>
-    <summary>:zap: GitHub Stats</summary>
+    <summary>:✨ GitHub Stats</summary>
     <img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&&show_icons=true&hide_border=true">
   </details>
 </div>
-<br>
+
 <div>
   <details>
     <summary>🏆 Github Trophies </summary>
