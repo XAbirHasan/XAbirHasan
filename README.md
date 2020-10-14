@@ -1,6 +1,7 @@
 ## I love to do Programming✨ | game development💘 | editing 💀
 ### Hi there, I'm Abir Hassan 👦, currently study on Computer Science and Engineering .
 <br>
+![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
 
 - 🌱 I’m currently learning ... everything 😉😜
 - 💬 Ask me about ... nothing
@@ -80,6 +81,7 @@
 </div>
 
 ### social media 💬
+<div align="center">
 <a href="#" target="_blank">
 	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/facebook-logo-64.png">
 </a>
@@ -92,6 +94,7 @@
 <a href="#" target="_blank">
 	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
 </a>
+</div>
 
 <!--
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
