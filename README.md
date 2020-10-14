@@ -65,19 +65,18 @@
   </details>
   
 ### Github info 👀
-<div>
-	<details>
-		<summary>✨ GitHub Stats</summary>
-		<img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&hide_border=true">
-	</details>
-</div>
 
-<div  align="center>
-	  <details>
-		    <summary>🏆 Github Trophies </summary>
-		    <img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
-	  </details>
-</div>
+<details>
+	<summary>✨ GitHub Stats</summary>
+	<img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&hide_border=true">
+</details>
+<details>
+	<summary>🏆 Github Trophies </summary>
+	<div align="center">
+		<img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
+	</div>
+</details>
+
 
 <div align="center">
 	<a href="#" target="_blank">
