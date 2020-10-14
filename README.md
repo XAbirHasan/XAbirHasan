@@ -72,7 +72,7 @@
 	</details>
 </div>
 
-<div>
+<div  align="center>
 	  <details>
 		    <summary>🏆 Github Trophies </summary>
 		    <img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
