@@ -1,5 +1,5 @@
-##I love to do Programming | game development | editing 
-### Hi there, I'm Abir Hassan, I’m a student. Currently study on Computer Science and Engineering . And I love Programming.
+## I love to do Programming | game development | editing 
+### Hi there, I'm Abir Hassan, I’m a student. Currently study on Computer Science and Engineering.
 
 <!--
 **XAbirHasan/XAbirHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
