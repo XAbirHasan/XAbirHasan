@@ -72,9 +72,7 @@
 </details>
 <details>
 	<summary>🏆 Github Trophies </summary>
-	<div align="center">
-		<img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
-	</div>
+	<img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
 </details>
 
 
@@ -92,20 +90,7 @@
 		<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
 	</a>
 </div>
-
 <!--
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
 
-**XAbirHasan/XAbirHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
