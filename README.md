@@ -8,7 +8,7 @@
 <br>
 <details>
   <summary>🏆 Github Trophies </summary>
-  <img align="left" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true">
+  <alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true">
 </details>
 
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
