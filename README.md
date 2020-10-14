@@ -1,4 +1,7 @@
-## I love to do Programming✨ | game development💘 | editing 💀
+
+![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
+
+## I love to do Programming✨ | game development💘 | editing 💀 
 ### Hi there, I'm Abir Hassan 👦, currently study on Computer Science and Engineering .
 <br>
 
