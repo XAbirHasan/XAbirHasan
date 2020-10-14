@@ -7,8 +7,8 @@
 </details>
 
 <details>
-  <summary>:zap: Github Trophies 🏆</summary>
-  <img align="left" alt="Abir's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true&hide_border=true">
+  <summary>:Github Trophies 🏆</summary>
+  <img align="left" alt="Abir's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&&show_icons=true">
 </details>
 
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
