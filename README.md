@@ -1,5 +1,12 @@
 ## I love to do Programming✨ | game development💘 | editing 💀
-### Hi there, I'm Abir Hassan 👦, I’m a student 🌼. Currently study on Computer Science and Engineering 🏰.
+### Hi there, I'm Abir Hassan 👦, currently study on Computer Science and Engineering .
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&theme=dracula">
+
+</details>
 
 <!--
 **XAbirHasan/XAbirHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
