@@ -80,6 +80,18 @@
 </div>
 
 ### social media 💬
+<a href="#" target="_blank">
+	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/facebook-logo-64.png">
+</a>
+<a href="https://www.instagram.com/abir_hasan_al_rabbi/" target="_blank">
+	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/instagram-64.png">
+</a>
+<a href="https://www.linkedin.com/in/abir-hassan" target="_blank">
+	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin-64.png">
+</a>
+<a href="#" target="_blank">
+	<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
+</a>
 
 <!--
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
