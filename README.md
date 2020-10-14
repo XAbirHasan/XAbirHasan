@@ -73,24 +73,19 @@
 	<summary>✨ GitHub Stats</summary>
 	<img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&hide_border=true">
 </details>
-<details>
-	<summary>🏆 Github Trophies </summary>
-	<img align="center" alt="Abir's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=XAbirHasan&show_icons=true&theme=onedark">
-</details>
-
 
 <div align="center">
 	<a href="#" target="_blank">
-		<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/facebook-logo-64.png">
+		<img align="center" width="32" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/facebook-logo-64.png">
 	</a>
 	<a href="https://www.instagram.com/abir_hasan_al_rabbi/" target="_blank">
-		<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/instagram-64.png">
+		<img align="center" width="32" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/instagram-64.png">
 	</a>
 	<a href="https://www.linkedin.com/in/abir-hassan" target="_blank">
-		<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin-64.png">
+		<img align="center" width="32" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin-64.png">
 	</a>
 	<a href="#" target="_blank">
-		<img align="center" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
+		<img align="center" width="32" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
 	</a>
 </div>
 <!--
