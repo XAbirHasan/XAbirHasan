@@ -84,7 +84,7 @@
 	<a href="https://www.linkedin.com/in/abir-hassan" target="_blank">
 		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin-64.png">
 	</a>
-	<a href="#" target="_blank">
+	<a href="https://www.youtube.com/channel/UClAvPJ1k-m2WYt2Rj5OcoOg" target="_blank">
 		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
 	</a>
 </div>
