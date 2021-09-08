@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
 
 ## I love to do Programming✨ | game development💘 | editing 💀 
-### Hi there, I'm Abir Hassan 👦, currently study on Computer Science and Engineering .
+### Hi there, I'm Abir Hassan 👦, currently graduated from UIU in Computer Science and Engineering .
 <br>
 
 - 🌱 I’m currently learning ... everything 😉😜
