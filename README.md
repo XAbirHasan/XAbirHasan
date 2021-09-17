@@ -67,7 +67,7 @@
 	<img align="center" alt="blender" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/blender-3d-64.png">
 	<img align="center" alt="adobe photoshop" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe-photoshop-64.png">
 	<img align="center" alt="adobe illustrator" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe-illustrator-64.png">
-	<img align="center" alt="adobe premiere pro" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe_pro_pro_64.png">
+	<img align="center" alt="adobe premiere pro" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe_pre_pro_64.png">
 	<img align="center" alt="audacity" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/audacity-64.png">
 	<br>
 	<br>
