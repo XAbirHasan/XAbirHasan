@@ -19,6 +19,18 @@
       <img align="center" alt="c#" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/c-sharp-64.png">
       <img align="center" alt="java" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/java-64.png">
       <img align="center" alt="python" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/python-64.png">
+      <img align="center" alt="dart" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/dart_64.png">
+      <br>
+      <br>
+  </details>
+  
+  <details>
+      <summary>Development</summary>
+      <img align="center" alt="Django" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/django_64.png">
+      <img align="center" alt="Flutter" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/flutter_64.png">
+      <img align="center" alt="Native Android" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/android_64.png">
+      <img align="center" alt="Game dev" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/machine-learning-64.png">
+      <img align="center" alt="Game dev" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/game-development.png">
       <br>
       <br>
   </details>
@@ -55,6 +67,7 @@
 	<img align="center" alt="blender" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/blender-3d-64.png">
 	<img align="center" alt="adobe photoshop" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe-photoshop-64.png">
 	<img align="center" alt="adobe illustrator" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe-illustrator-64.png">
+	<img align="center" alt="adobe premiere pro" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/adobe_pro_pro_64.png">
 	<img align="center" alt="audacity" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/Editing/audacity-64.png">
 	<br>
 	<br>
