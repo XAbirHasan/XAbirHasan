@@ -10,83 +10,6 @@
 - 📫 How to reach me: ... emails and social media
 - 💀 Fun fact: ... nothing
 
-## My Works
-<details>
-	<summary>2017</summary>
-	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-</details>
-<details>
-	<summary>2018</summary>
-	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-</details>
-<details>
-	<summary>2019</summary>
-	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-</details>
-<details>
-	<summary>2020</summary>
-	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-</details>
-<details>
-	<summary>2021</summary>
-	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-	* **[Snake_Game]()**
-</details>
-
 ### Language and Tools 💻🔨
 
   <details>
@@ -156,6 +79,62 @@
 	<img align="center" alt="guitar" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/guitar-64.png">
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
+  
+### My Works
+<details>
+	<summary>2017</summary>
+	* **[Snake_Game](https://github.com/XAbirHasan/Snake_Game)** <br>
+	* **[TicTacToe](https://github.com/XAbirHasan/TicTacToe)** <br>
+	* **[Snake2_iGraphics](https://github.com/XAbirHasan/Snake2_iGraphics)** <br>
+	* **[Master_Archer](https://github.com/XAbirHasan/Master_Archer)** <br>
+	* **[Super_Mario](https://github.com/XAbirHasan/Super_Mario)** <br>
+	* **[Movie_Ticket](https://github.com/XAbirHasan/Movie_Ticket)** <br>
+	* **[C-and-Cplus](https://github.com/XAbirHasan/C-and-Cplus)** <br>
+</details>
+<details>
+	<summary>2018</summary>
+	* **[Calculator-java](https://github.com/XAbirHasan/Calculator-java)**
+	* **[Snake-java](https://github.com/XAbirHasan/Snake-java)**
+	* **[OnlineQuiz](https://github.com/XAbirHasan/OnlineQuiz)**
+	* **[1D-Pong](https://github.com/XAbirHasan/1D-Pong)**
+	* **[FCFS](https://github.com/XAbirHasan/FCFS)**
+</details>
+<details>
+	<summary>2019</summary>
+	* **[child-care](https://github.com/XAbirHasan/child-care)**
+	* **[shopee-mart](https://github.com/XAbirHasan/shopee-mart)**
+	* **[googleAuth](https://github.com/XAbirHasan/googleAuth)**
+	* **[zetta](https://github.com/XAbirHasan/zetta)**
+	* **[HomeAutomation](https://github.com/XAbirHasan/HomeAutomation)**
+	* **[Client-Server-CN](https://github.com/XAbirHasan/Client-Server-CN)**
+</details>
+<details>
+	<summary>2020</summary>
+	* **[TicTacToe-AI](https://github.com/XAbirHasan/TicTacToe-AI)**
+	* **[hotel_outgoing](https://github.com/XAbirHasan/hotel_outgoing)**
+	* **[Demo-Awarenessapp](https://github.com/XAbirHasan/Demo-Awarenessapp)**
+	* **[3D-Basic](https://github.com/XAbirHasan/3D-Basic)**
+	* **[Scale-3D-Blender](https://github.com/XAbirHasan/Scale-3D-Blender)**
+	* **[HorrorEnviroment-Blender](https://github.com/XAbirHasan/HorrorEnviroment-Blender)**
+	* **[Bike-3D](https://github.com/XAbirHasan/Bike-3D)**
+	* **[NEGA-CUBE](https://github.com/XAbirHasan/NEGA-CUBE)**
+	* **[kingsFoods](https://github.com/XAbirHasan/kingsFoods)**
+	* **[game-Environment](https://github.com/XAbirHasan/game-Environment)**
+	* **[low-poly-character](https://github.com/XAbirHasan/low-poly-character)**
+	* **[BroX](https://github.com/XAbirHasan/BroX)**
+	* **[Python-AI](https://github.com/XAbirHasan/Python-AI)**
+</details>
+<details>
+	<summary>2021</summary>
+	* **[3D-Boat](https://github.com/XAbirHasan/3D-Boat)**
+	* **[Stock-Trading](https://github.com/XAbirHasan/Stock-Trading)**
+	* **[Suicide-Prevention](https://github.com/XAbirHasan/Suicide-Prevention)**
+	* **[Bangla-Bert](https://github.com/XAbirHasan/Bangla-Bert)**
+	* **[WordCloud](https://github.com/XAbirHasan/WordCloud)**
+	* **[Simulation](https://github.com/XAbirHasan/Simulation)**
+	* **[IPE](https://github.com/XAbirHasan/IPE)**
+	* **[worldClock](https://github.com/XAbirHasan/worldClock)**
+</details>
   
 ### Github info 👀
 
