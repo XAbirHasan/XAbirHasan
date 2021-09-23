@@ -86,10 +86,10 @@
 	[Snake_Game](https://github.com/XAbirHasan/Snake_Game) <br>
 	[TicTacToe](https://github.com/XAbirHasan/TicTacToe)<br>
 	[Snake2_iGraphics](https://github.com/XAbirHasan/Snake2_iGraphics)<br>
-	[Master_Archer](https://github.com/XAbirHasan/Master_Archer)** <br>
-	[Super_Mario](https://github.com/XAbirHasan/Super_Mario)** <br>
-	[Movie_Ticket](https://github.com/XAbirHasan/Movie_Ticket)** <br>
-	[C-and-Cplus](https://github.com/XAbirHasan/C-and-Cplus)** <br>
+	[Master_Archer](https://github.com/XAbirHasan/Master_Archer) <br>
+	[Super_Mario](https://github.com/XAbirHasan/Super_Mario) <br>
+	[Movie_Ticket](https://github.com/XAbirHasan/Movie_Ticket) <br>
+	[C-and-Cplus](https://github.com/XAbirHasan/C-and-Cplus)<br>
 </details>
 <details>
 	<summary>2018</summary>
