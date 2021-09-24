@@ -86,6 +86,18 @@
 	<details>
 		<summary>2017</summary>
 	</details>
+	<details>
+		<summary>2018</summary>
+	</details>
+	<details>
+		<summary>2019</summary>
+	</details>
+	<details>
+		<summary>2020</summary>
+	</details>
+	<details>
+		<summary>2021</summary>
+	</details>
   </details>
   
 ### Github info 👀
