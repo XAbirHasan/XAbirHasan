@@ -86,7 +86,7 @@
 	<details>
 	<summary>2017</summary>	
 	<ul>
-	<li>* **[Warrior](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/Warrior.fbx)**</li>
+	<li>[Warrior] (https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/Warrior.fbx)</li>
 	<ul>
 	</details>
 	<details>
