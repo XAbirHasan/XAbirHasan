@@ -85,10 +85,11 @@
 	<summary>My Works</summary>
 	<details>
 	<summary>2017</summary>
-	- [StimulusReflex](https://docs.stimulusreflex.com/)
-	- [CableReady](https://cableready.stimulusreflex.com/)
-	- [ViewComponent](https://github.com/github/view_component)
-	- [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
+		
+		- [StimulusReflex](https://docs.stimulusreflex.com/)
+		- [CableReady](https://cableready.stimulusreflex.com/)
+		- [ViewComponent](https://github.com/github/view_component)
+		- [ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex)
 	</details>
 	<details>
 		<summary>2018</summary>
