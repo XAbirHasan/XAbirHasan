@@ -80,28 +80,6 @@
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
   
-### My Works ✨
-  <details>
-	<summary>See Details</summary>
-	<details>
-	<summary>2017</summary>	
-	<ul>
-	<li>[Warrior] (https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/Warrior.fbx)</li>
-	<ul>
-	</details>
-	<details>
-		<summary>2018</summary>
-	</details>
-	<details>
-		<summary>2019</summary>
-	</details>
-	<details>
-		<summary>2020</summary>
-	</details>
-	<details>
-		<summary>2021</summary>
-	</details>
-  </details>
   
 ### Github info 👀
 
