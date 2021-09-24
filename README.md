@@ -80,13 +80,13 @@
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
   
-  
+### My Works ✨
   <details>
-	<summary>My Works</summary>
+	<summary>See Details</summary>
 	<details>
 	<summary>2017</summary>	
 	<ul>
-	<li> [Snake_Game](https://github.com/XAbirHasan/Snake_Game)</li>
+	<li>* **[Warrior](https://github.com/XAbirHasan/low-poly-character/blob/master/3d-file/warrior/Warrior.fbx)**</li>
 	<ul>
 	</details>
 	<details>
