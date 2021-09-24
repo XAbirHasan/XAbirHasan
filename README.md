@@ -79,29 +79,20 @@
 	<img align="center" alt="guitar" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/guitar-64.png">
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
+  <details>
+	<summary>Heading1</summary>
 
-<details>
-	<summary>My Works</summary>
+	some text
+	+ <details>
+	    <summary>Heading1.1</summary>
 
-	+<details>
-		<summary>2017</summary>
-		[Snake_Game](https://github.com/XAbirHasan/Snake_Game) <br>
-		[TicTacToe](https://github.com/XAbirHasan/TicTacToe)<br>
-		[Snake2_iGraphics](https://github.com/XAbirHasan/Snake2_iGraphics)<br>
-		[Master_Archer](https://github.com/XAbirHasan/Master_Archer) <br>
-		[Super_Mario](https://github.com/XAbirHasan/Super_Mario) <br>
-		[Movie_Ticket](https://github.com/XAbirHasan/Movie_Ticket) <br>
-		[C-and-Cplus](https://github.com/XAbirHasan/C-and-Cplus)<br>
-	</details>
-	+<details>
-		<summary>2018</summary>
-		* **[Calculator-java](https://github.com/XAbirHasan/Calculator-java)**
-		* **[Snake-java](https://github.com/XAbirHasan/Snake-java)**
-		* **[OnlineQuiz](https://github.com/XAbirHasan/OnlineQuiz)**
-		* **[1D-Pong](https://github.com/XAbirHasan/1D-Pong)**
-		* **[FCFS](https://github.com/XAbirHasan/FCFS)**
-	</details>
-</details>
+	    some more text
+	    + <details>
+		<summary>Heading1.1.1</summary>
+		even more text
+	      </details>
+	   </details>
+  </details>
   
 ### Github info 👀
 
