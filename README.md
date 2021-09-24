@@ -79,20 +79,6 @@
 	<img align="center" alt="guitar" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/guitar-64.png">
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
-  <details>
-	<summary>Heading1</summary>
-
-	some text
-	+ <details>
-	    <summary>Heading1.1</summary>
-
-	    some more text
-	    + <details>
-		<summary>Heading1.1.1</summary>
-		even more text
-	      </details>
-	   </details>
-  </details>
   
 ### Github info 👀
 
