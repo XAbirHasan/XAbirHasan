@@ -85,7 +85,6 @@
 	<summary>My Works</summary>
 	<details>
 		<summary>2017</summary>
-		<br>
 		
 		- [Turbo](https://turbo.hotwire.dev/)
 	</details>
