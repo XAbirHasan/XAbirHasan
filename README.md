@@ -97,10 +97,10 @@
 		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/instagram-64.png">
 	</a>
 	<a href="https://www.linkedin.com/in/abir-hassan" target="_blank">
-		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin-64.png">
+		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/linkdin_64.png">
 	</a>
 	<a href="https://www.youtube.com/channel/UClAvPJ1k-m2WYt2Rj5OcoOg/videos" target="_blank">
-		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube-64.png">
+		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube_64.png">
 	</a>
 </div>
 <!--
