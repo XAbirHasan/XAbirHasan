@@ -31,7 +31,7 @@
 	  <img align="center" alt="Nodejs" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/nodejs_64.png">
       <img align="center" alt="vuejs" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/vuejs_64.png">
       <img align="center" alt="vuetify" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/vuetify_64.png">
-      <img align="center" alt="typescript" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/typescript_64.png">
+      <img align="center" alt="typescript" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/typescript_64.png"> <br>
       <img align="center" alt="Django" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/django_64.png">
       <img align="center" alt="Flutter" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/flutter_64.png">
       <img align="center" alt="Native Android" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/android_64.png">
