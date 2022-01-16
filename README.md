@@ -24,7 +24,7 @@
       <br>
   </details>
   
-  <details>
+  <details open>
       <summary>Development</summary>
       <img align="center" alt="Django" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/django_64.png">
       <img align="center" alt="Flutter" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/dev/flutter_64.png">
@@ -35,7 +35,7 @@
       <br>
   </details>
 
-  <details>
+  <details open>
 	<summary>Web</summary>
 	<img align="center" alt="html" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/web/html-64.png">
 	<img align="center" alt="css" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/web/css-64.png">
@@ -46,7 +46,7 @@
 	<br>
   </details>
 
-  <details>
+  <details open>
 	<summary>software and tools</summary>
 	<h4> Editor </h4>
 	<img align="center" alt="android studio" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/tools/editor/android-studio-64.png">
@@ -72,7 +72,7 @@
 	<br>
 	<br>
   </details>
-  <details>
+  <details open>
 	<summary>Others skills</summary>
 	<img align="center" alt="ai" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/ai-64.png">
 	<img align="center" alt="game" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/game-64.png">
@@ -83,7 +83,7 @@
   
 ### Github info 👀
 
-<details>
+<details open>
 	<summary>✨ GitHub Stats</summary>
 	<img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&hide_border=true">
 </details>
