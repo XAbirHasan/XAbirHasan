@@ -12,7 +12,7 @@
 
 ### Language and Tools 💻🔨
 
-  <details>
+  <details open>
       <summary>programming language</summary>
       <img align="center" alt="c" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/c-64.png">
       <img align="center" alt="c++" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/language/c%2B%2B-64.png">
