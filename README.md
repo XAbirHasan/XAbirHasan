@@ -86,13 +86,6 @@
 	<img align="center" alt="mobile" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/others/mobile-64.png">
   </details>
   
-  
-### Github info 👀
-
-<details open>
-	<summary>✨ GitHub Stats</summary>
-	<img align="center" alt="Abir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XAbirHasan&show_icons=true&hide_border=true">
-</details>
 
 <div align="center">
 	<a href="#" target="_blank">
@@ -108,7 +101,4 @@
 		<img align="center" width="40" alt="" src="https://github.com/XAbirHasan/XAbirHasan/blob/main/icon-64/social/youtube_64.png">
 	</a>
 </div>
-<!--
-![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
 
--->
