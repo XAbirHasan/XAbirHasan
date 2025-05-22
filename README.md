@@ -53,7 +53,7 @@ Git, GitHub, GitHub Actions, FFmpeg, Media Asset Management (MAM)
 
 ### 📄 Hire Me !
 
-- [**View My Resume**](https://drive.google.com/file/d/1FO2juOjO4si4DKahgYfv3FQDExaX-Jcp/view?usp=sharing)
+- [**View My Resume**](https://drive.google.com/file/d/1WnZq0aiISswT7ipx5Ih3a-euMEanJIyv/view?usp=sharing)
 
 ---
 
